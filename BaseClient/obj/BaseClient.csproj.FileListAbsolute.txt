@@ -1,0 +1,12 @@
+H:\work_bak\application\dotNet\BaseClient\BaseClient\obj\Debug\ResolveAssemblyReference.cache
+H:\work_bak\application\dotNet\BaseClient\BaseClient\obj\Debug\BaseClient.Form1.resources
+H:\work_bak\application\dotNet\BaseClient\BaseClient\obj\Debug\BaseClient.Properties.Resources.resources
+H:\work_bak\application\dotNet\BaseClient\BaseClient\obj\Debug\BaseClient.csproj.GenerateResource.Cache
+H:\work_bak\application\dotNet\BaseClient\BaseClient\bin\Debug\BaseClient.exe
+H:\work_bak\application\dotNet\BaseClient\BaseClient\bin\Debug\BaseClient.pdb
+H:\work_bak\application\dotNet\BaseClient\BaseClient\obj\Debug\BaseClient.exe
+H:\work_bak\application\dotNet\BaseClient\BaseClient\obj\Debug\BaseClient.pdb
+H:\work_bak\application\dotNet\BaseClient\BaseClient\bin\Debug\OpenNETCF.dll
+H:\work_bak\application\dotNet\BaseClient\BaseClient\bin\Debug\OpenNETCF.Configuration.dll
+H:\work_bak\application\dotNet\BaseClient\BaseClient\bin\Debug\OpenNETCF.Configuration.xml
+H:\work_bak\application\dotNet\BaseClient\BaseClient\bin\Debug\OpenNETCF.xml
